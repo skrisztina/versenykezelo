@@ -1,0 +1,81 @@
+.cim{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #00aae5;
+    color: #ffffff;
+}
+
+.alcim{
+    text-align: center;
+}
+
+.userForm{
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: large;
+    font-weight: normal;
+
+}
+
+button{
+    background-color: #00aae5;
+    color: #ffffff;
+    border-radius: 4em;
+}
+
+#registerDiv{
+    margin-left: 10%;
+}
+
+table{
+    border-collapse: collapse;
+    border: 0.1rem solid #01164f;
+    max-width: 70%;
+    margin-left: 12%;
+}
+
+th, td{
+    border: 0.1rem solid #01164f;
+    padding: 0.2rem 0.3rem 0.2rem 0.3rem;
+    text-align: center;
+}
+
+#toLoginDiv{
+    margin-left: 10%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+caption{
+    font-size: large;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+
+.message{
+    font-size: small;
+    padding: 1rem;
+    margin-left: 12%;
+    color: black;
+}
+
+.formDiv h2{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.formDiv{
+    margin-left: 12%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.formDiv form {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
+
